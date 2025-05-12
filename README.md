@@ -11,17 +11,17 @@ This project walks through deploying a secure, production-grade OpenAI-powered c
 * **EKS** (Amazon's Kubernetes service) to manage and scale deployments
 * **Terraform** to provision infrastructure-as-code
 
-Security is woven into every stage—shift-left principles, automated scans, and hardened delivery pipelines all included.
+Security is woven into every stage, embracing the mythical security-by-design - shift-left principles, automated scans and hardened delivery pipelines are all included.
 
 ### What’s the Chatbot?
 
-An OpenAI-powered conversational interface designed to simulate natural language dialogue. It's always on, scales effortlessly, and provides contextual, human-like responses using OpenAI’s APIs.
+An OpenAI-powered conversational interface designed to simulate natural language dialogue. It's always on, scales effortlessly and provides contextual, human-like responses using OpenAI’s APIs.
 
 ### Why Build It This Way?
 
 * **24/7 Responsiveness:** Fully automated support layer that never sleeps.
 * **Scalability:** Handle thousands of user requests with Kubernetes auto-scaling.
-* **Security-First:** DevSecOps practices like OWASP scans, SonarQube quality gates, and Trivy image scanning catch issues early.
+* **Security-First:** DevSecOps practices like OWASP scans, SonarQube quality gates, and Trivy image scanning aim to catch issues early.
 
 ---
 
@@ -35,7 +35,7 @@ An OpenAI-powered conversational interface designed to simulate natural language
 
 ---
 
-## 🛠Jenkins Setup & Chatbot UI Deployment
+## Jenkins Setup & Chatbot UI Deployment
 
 **GitHub Repo**: [Chatbot UI](https://github.com/KenB773/ChatbotUIJenkins/)
 
@@ -44,7 +44,7 @@ An OpenAI-powered conversational interface designed to simulate natural language
 Clone the repo and prepare the Terraform backend:
 
 ```bash
-git clone https://github.com/NotHarshhaa/DevOps-Projects/DevOps-Project-28/Chatbot-UI
+git clone https://github.com/KenB773/ChatbotUIJenkins/
 cd Jenkins-Server-TF
 ```
 
