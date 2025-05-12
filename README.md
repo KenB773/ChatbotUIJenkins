@@ -147,4 +147,4 @@ terraform destroy -var-file=variables.tfvars --auto-approve
 
 ---
 
-This project showcases how to secure, automate, and deploy a cloud-native AI service using best practices across DevOps, MLOps, and infrastructure-as-code.
+This project showcases how to secure, automate, and deploy a cloud-native AI service using best practices across DevOps, MLOps, and infrastructure-as-code. Inspired & guided by the great [NotHarshaa](https://github.com/NotHarshhaa) and his incredible collection of DevOps projects - I highly recommend checking them out!
